@@ -61,7 +61,8 @@ export default function addContent(data) {
 
 * js 语法 
   `foo()()`
-  *demo*
+  - demo
+  
   ![foo()()](https://raw.githubusercontent.com/sunlggggg/images/master/js/js%20function.png)
   
 * `{object} = {object:object}`
